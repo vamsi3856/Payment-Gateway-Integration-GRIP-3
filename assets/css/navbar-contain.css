@@ -1,0 +1,35 @@
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.btn.btn-primary {
+  margin-top: 33px;
+  font-family: Mulish, sans-serif;
+  color: #5928e5;
+  background: #ffd9d9;
+  border-radius: 0;
+  border: 5px solid #000000 ;
+  font-size: 18px;
+  padding-right: 26px;
+  padding-left: 26px;
+}
+
+.btn-primary:hover {
+  color: #ffffff;
+  background-color: #0e0e0e;
+  transition: 0.8s;
+  border-color: #ffd9d9;
+}
+
+.container {
+  overflow: hidden;
+}
+
+.btn-primary:hover {
+  color: #5928e5;
+  background-color: #000000;
+  border-color: #ffffff;
+  transition: 0.8s;
+}
+
